@@ -1,0 +1,6 @@
+# Virtual environments
+winvenv/
+venv/
+
+# PyCharm config
+.idea
