@@ -4,3 +4,6 @@ venv/
 
 # PyCharm config
 .idea
+
+# Python cache
+__pycache__/
