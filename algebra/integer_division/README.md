@@ -2,7 +2,7 @@
 ## Definition
 ![Integer division definition](definition.png)
 
-#### Common division visualization
+#### Common division representation
 ![Integer division definition](division_variables.png)
 
 #### LaTex definition:
