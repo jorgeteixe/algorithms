@@ -14,7 +14,7 @@ def divisors(a):
 
 
 def main():
-    a = 100
+    a = 12
     divs = divisors(a)
     print(f'a = {a}\ndivs = {divs}')
 
