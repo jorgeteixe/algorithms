@@ -11,7 +11,7 @@ Use the following commands to get the image with the correct format:
 
 > To run the following commands is needed [imagemagick](https://github.com/ImageMagick/ImageMagick).
 ```bash
-identify definition.png     
+identify definition.png # get the size of the image, used in the next line
 convert -crop widthxheight+loffset+toffset definition.png definition.png
 convert -flatten definition.png definition.png
 convert -border 0x10 -bordercolor white definition.png definition.png
