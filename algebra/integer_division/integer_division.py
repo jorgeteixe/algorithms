@@ -10,8 +10,8 @@ def integer_division(a, b):
 
 
 def main():
-    a = 23
-    b = 25
+    a = 60
+    b = 7
     q, r = integer_division(a, b)
     print(f'a = {a}\nb = {b}\nq = {q}\nr = {r}')
     print(f'{a} = {b}*{q} + {r}')
