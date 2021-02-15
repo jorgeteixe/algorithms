@@ -1,6 +1,8 @@
 # algorithms
 
-A collection with all the algorithms studied in the Computer Science degree. Written in Python.
+A collection with all the algorithms studied in the Computer Science degree. 
+
+Written in Python.
 
 ### How to create the *definition.png*
 
